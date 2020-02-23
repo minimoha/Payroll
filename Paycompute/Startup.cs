@@ -42,10 +42,14 @@ namespace Paycompute
                     Configuration.GetConnectionString("DefaultConnection")));
             services.AddDefaultIdentity<IdentityUser>()
                 .AddDefaultUI(UIFramework.Bootstrap4)
-                .AddEntityFrameworkStores<ApplicationDbContext>();
+                .AddEntityFrameworkStores<ApplicationDbContext>()
+                .AddDefaultTokenProviders();
 
             services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_2);
             services.AddScoped<IEmployeeService, EmployeeService>();
+            services.AddScoped<IPayComputationService, PayComputationService>();
+            services.AddScoped<INationalInsuranceContributionService, NationalInsuranceContributionService>();
+            services.AddScoped<ITaxService, TaxService>();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.

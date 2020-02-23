@@ -88,3 +88,9 @@ C:\Users\NHA007\Desktop\Enterprise\Paycompute\obj\Debug\netcoreapp2.2\Paycompute
 C:\Users\NHA007\Desktop\Enterprise\Paycompute\obj\Debug\netcoreapp2.2\Paycompute.RazorTargetAssemblyInfo.cs
 C:\Users\NHA007\Desktop\Enterprise\Paycompute\obj\Debug\netcoreapp2.2\Paycompute.Views.pdb
 C:\Users\NHA007\Desktop\Enterprise\Paycompute\obj\Debug\netcoreapp2.2\Paycompute.csproj.CopyComplete
+C:\Users\NHA007\Desktop\Enterprise\Paycompute\obj\Debug\netcoreapp2.2\Razor\Views\Pay\Create.cshtml.g.cs
+C:\Users\NHA007\Desktop\Enterprise\Paycompute\obj\Debug\netcoreapp2.2\Razor\Views\Pay\Detail.cshtml.g.cs
+C:\Users\NHA007\Desktop\Enterprise\Paycompute\obj\Debug\netcoreapp2.2\Razor\Views\Pay\Index.cshtml.g.cs
+C:\Users\NHA007\Desktop\Enterprise\Paycompute\obj\Debug\netcoreapp2.2\Razor\Views\Pay\Payslip.cshtml.g.cs
+C:\Users\NHA007\Desktop\Enterprise\Paycompute\bin\Debug\netcoreapp2.2\WkHtmlToPdf\wkhtmltoimage.exe
+C:\Users\NHA007\Desktop\Enterprise\Paycompute\bin\Debug\netcoreapp2.2\WkHtmlToPdf\wkhtmltopdf.exe
