@@ -4534,24 +4534,27 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Muhammed Adegbola\\.nuget\\packages\\": {},
+    "C:\\Users\\NHA007\\.nuget\\packages\\": {},
+    "C:\\Microsoft\\Xamarin\\NuGet\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Muhammed Adegbola\\Desktop\\Workspace\\Enterprise\\Paycompute.Persistence\\Paycompute.Persistence.csproj",
+      "projectUniqueName": "C:\\Users\\NHA007\\Desktop\\Enterprise\\Paycompute.Persistence\\Paycompute.Persistence.csproj",
       "projectName": "Paycompute.Persistence",
-      "projectPath": "C:\\Users\\Muhammed Adegbola\\Desktop\\Workspace\\Enterprise\\Paycompute.Persistence\\Paycompute.Persistence.csproj",
-      "packagesPath": "C:\\Users\\Muhammed Adegbola\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Muhammed Adegbola\\Desktop\\Workspace\\Enterprise\\Paycompute.Persistence\\obj\\",
+      "projectPath": "C:\\Users\\NHA007\\Desktop\\Enterprise\\Paycompute.Persistence\\Paycompute.Persistence.csproj",
+      "packagesPath": "C:\\Users\\NHA007\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\NHA007\\Desktop\\Enterprise\\Paycompute.Persistence\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
+        "C:\\Microsoft\\Xamarin\\NuGet\\",
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\Muhammed Adegbola\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\NHA007\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.2"
@@ -4563,8 +4566,8 @@
       "frameworks": {
         "netcoreapp2.2": {
           "projectReferences": {
-            "C:\\Users\\Muhammed Adegbola\\Desktop\\Workspace\\Enterprise\\Paycompute.Entity\\Paycompute.Entity.csproj": {
-              "projectPath": "C:\\Users\\Muhammed Adegbola\\Desktop\\Workspace\\Enterprise\\Paycompute.Entity\\Paycompute.Entity.csproj"
+            "C:\\Users\\NHA007\\Desktop\\Enterprise\\Paycompute.Entity\\Paycompute.Entity.csproj": {
+              "projectPath": "C:\\Users\\NHA007\\Desktop\\Enterprise\\Paycompute.Entity\\Paycompute.Entity.csproj"
             }
           }
         }
@@ -4609,7 +4612,7 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100-preview1-014459\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
       }
     }
   }
