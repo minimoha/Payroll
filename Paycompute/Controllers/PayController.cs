@@ -154,7 +154,6 @@ namespace Paycompute.Controllers
             {
                 return NotFound();
             }
-
             var model = new PaymentRecordDetailViewModel()
             {
                 Id = paymentRecord.Id,
